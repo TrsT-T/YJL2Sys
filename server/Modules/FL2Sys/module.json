@@ -1,0 +1,13 @@
+{
+    "name": "FL2Sys",
+    "alias": "fl2sys",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FL2Sys\\Providers\\FL2SysServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
